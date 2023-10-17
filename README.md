@@ -40,6 +40,10 @@ In case you were wondering, B.I.D.E.T stands for **B**idet **I**mprovement **D**
 ## Contributing 🚀
 
 Feeling inspired to join the B.I.D.E.T movement? We welcome contributions from the bottom of our hearts (and elsewhere)! Let's make the world a cleaner, funnier place together. 😄
+1. Be an outside collaborator of the project.
+2. Open a draft PR.
+3. Be descriptive in your PR and add reviewers.
+4. Have the reviewer approve your PR.
 
 ## License 📜
 
